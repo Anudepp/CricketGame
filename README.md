@@ -1,5 +1,4 @@
-# Bat Ball Stump Game
-
+# Cricket Game
 Welcome to the Bat Ball Stump Game! This is a simple, web-based game where you can challenge the computer in a rock-paper-scissors style game using “Bat,” “Ball,” and “Stump” as the choices.
 
 # Table of Contents
