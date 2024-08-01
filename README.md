@@ -8,9 +8,7 @@ Welcome to the Bat Ball Stump Game! This is a simple, web-based game where you c
 	•	Installation
 	•	How to Play
 	•	Technologies Used
-	•	License
-	•	Contributing
-	•	Contact
+
 
 # Description
 
